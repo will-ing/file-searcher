@@ -13,6 +13,12 @@ You have the option for case sensitivity, To use in bash enter:
  unset CASE_SENSITIVE
 ```
 
+To export output to file:
+
+```terminal
+cargo run arg arg.txt > output.txt
+```
+
 ---
 
 ## Tools Used
@@ -24,7 +30,7 @@ You have the option for case sensitivity, To use in bash enter:
 
 ## Recent Updates
 
-No updates
+- Added iterator 2022-01-29
 
 ---
 
